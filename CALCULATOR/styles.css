@@ -14,7 +14,7 @@ a {
 
 body {
     font-family: 'popins'sans-serif;
-    background-image: url(https://wallpaperaccess.com/full/979479.jpg);
+    background-image: url(https://wallpapercave.com/wp/yfW3mPh.jpg);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -103,7 +103,7 @@ button:hover {
 /* dark theme */
 
 .calculator.dark {
-    background-color: #071115;
+    background-color: hsl(0, 8%, 5%);
 }
 
 .calculator.dark #display {
